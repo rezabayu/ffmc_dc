@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/0a614edd9f80484db7d43ed411082229/artifacts
+end_time: 1750517574887
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 0a614edd9f80484db7d43ed411082229
+run_name: learned-gnu-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517572851
+status: 3
+tags: []
+user_id: rzby

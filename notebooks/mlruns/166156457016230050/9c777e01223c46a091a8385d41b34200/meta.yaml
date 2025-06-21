@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/9c777e01223c46a091a8385d41b34200/artifacts
+end_time: 1750517613542
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 9c777e01223c46a091a8385d41b34200
+run_name: bustling-grouse-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517611312
+status: 3
+tags: []
+user_id: rzby

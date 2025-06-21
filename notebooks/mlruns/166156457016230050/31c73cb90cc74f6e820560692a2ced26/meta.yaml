@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/31c73cb90cc74f6e820560692a2ced26/artifacts
+end_time: 1750518271382
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 31c73cb90cc74f6e820560692a2ced26
+run_name: adaptable-hound-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518269389
+status: 3
+tags: []
+user_id: rzby

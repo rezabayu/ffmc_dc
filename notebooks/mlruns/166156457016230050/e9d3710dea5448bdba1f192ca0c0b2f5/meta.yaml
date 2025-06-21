@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/e9d3710dea5448bdba1f192ca0c0b2f5/artifacts
+end_time: 1750518226848
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: e9d3710dea5448bdba1f192ca0c0b2f5
+run_name: nosy-hound-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518224876
+status: 3
+tags: []
+user_id: rzby

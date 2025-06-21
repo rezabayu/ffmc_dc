@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/f6e616f521b14a0dae5448ffc5c8a9f3/artifacts
+end_time: 1750518183188
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: f6e616f521b14a0dae5448ffc5c8a9f3
+run_name: grandiose-owl-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518181110
+status: 3
+tags: []
+user_id: rzby

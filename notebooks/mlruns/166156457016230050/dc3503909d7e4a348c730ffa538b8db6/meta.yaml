@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/dc3503909d7e4a348c730ffa538b8db6/artifacts
+end_time: 1750517466873
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: dc3503909d7e4a348c730ffa538b8db6
+run_name: nebulous-hog-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517464846
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/93bc68f651c64fbd83916e3169653b04/artifacts
+end_time: 1750518281534
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 93bc68f651c64fbd83916e3169653b04
+run_name: honorable-goose-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518279586
+status: 3
+tags: []
+user_id: rzby

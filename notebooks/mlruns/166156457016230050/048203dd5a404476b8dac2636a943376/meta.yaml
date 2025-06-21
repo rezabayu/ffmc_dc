@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/048203dd5a404476b8dac2636a943376/artifacts
+end_time: 1750518254247
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 048203dd5a404476b8dac2636a943376
+run_name: bright-stag-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518252191
+status: 3
+tags: []
+user_id: rzby

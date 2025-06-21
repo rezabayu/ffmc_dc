@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/d6ed132ec709401db2cb4c02f5820277/artifacts
+end_time: 1750518135984
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: d6ed132ec709401db2cb4c02f5820277
+run_name: big-smelt-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518133991
+status: 3
+tags: []
+user_id: rzby

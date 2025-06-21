@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/8343546a486945bb8d35b6dcdce2e22d/artifacts
+end_time: 1750517502377
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 8343546a486945bb8d35b6dcdce2e22d
+run_name: handsome-rook-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517500209
+status: 3
+tags: []
+user_id: rzby

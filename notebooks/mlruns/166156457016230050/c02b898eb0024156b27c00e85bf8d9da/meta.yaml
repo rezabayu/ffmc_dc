@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/c02b898eb0024156b27c00e85bf8d9da/artifacts
+end_time: 1750517605689
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: c02b898eb0024156b27c00e85bf8d9da
+run_name: receptive-shark-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517603615
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/c7ca57eb7afc452aa9cfca7ffccd1056/artifacts
+end_time: 1750518133644
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: c7ca57eb7afc452aa9cfca7ffccd1056
+run_name: burly-ant-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518131596
+status: 3
+tags: []
+user_id: rzby

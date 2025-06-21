@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/1b515f37d6b5454583155a3c9bc89f9a/artifacts
+end_time: 1750517602967
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 1b515f37d6b5454583155a3c9bc89f9a
+run_name: valuable-gnu-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517600886
+status: 3
+tags: []
+user_id: rzby

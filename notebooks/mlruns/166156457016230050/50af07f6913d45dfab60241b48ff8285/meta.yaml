@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/50af07f6913d45dfab60241b48ff8285/artifacts
+end_time: 1750518315642
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 50af07f6913d45dfab60241b48ff8285
+run_name: useful-cod-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518313631
+status: 3
+tags: []
+user_id: rzby

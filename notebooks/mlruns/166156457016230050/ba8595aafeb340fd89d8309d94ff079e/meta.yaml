@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/ba8595aafeb340fd89d8309d94ff079e/artifacts
+end_time: 1750518186916
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: ba8595aafeb340fd89d8309d94ff079e
+run_name: amazing-stoat-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518184871
+status: 3
+tags: []
+user_id: rzby

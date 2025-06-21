@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/b93877b4cfcb4036816b859b8f91763e/artifacts
+end_time: 1750518153127
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: b93877b4cfcb4036816b859b8f91763e
+run_name: judicious-asp-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518151199
+status: 3
+tags: []
+user_id: rzby

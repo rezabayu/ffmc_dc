@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/ef8cde64a097407a9aa70ecd74d76ea5/artifacts
+end_time: 1750518166739
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: ef8cde64a097407a9aa70ecd74d76ea5
+run_name: rumbling-horse-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518164642
+status: 3
+tags: []
+user_id: rzby

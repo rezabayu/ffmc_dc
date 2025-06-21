@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/7cbb50cdb9d143b787f9db664999adee/artifacts
+end_time: 1750517563915
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 7cbb50cdb9d143b787f9db664999adee
+run_name: skittish-owl-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517561847
+status: 3
+tags: []
+user_id: rzby

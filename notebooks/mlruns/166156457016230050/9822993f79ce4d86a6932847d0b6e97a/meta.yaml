@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/9822993f79ce4d86a6932847d0b6e97a/artifacts
+end_time: 1750517492447
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 9822993f79ce4d86a6932847d0b6e97a
+run_name: awesome-wolf-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517490579
+status: 3
+tags: []
+user_id: rzby

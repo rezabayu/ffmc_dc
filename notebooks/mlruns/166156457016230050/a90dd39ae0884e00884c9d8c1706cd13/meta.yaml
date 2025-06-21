@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/a90dd39ae0884e00884c9d8c1706cd13/artifacts
+end_time: 1750517549989
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: a90dd39ae0884e00884c9d8c1706cd13
+run_name: salty-dove-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517547914
+status: 3
+tags: []
+user_id: rzby

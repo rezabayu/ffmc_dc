@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/4cd8acddf2474031b153560d032a9edb/artifacts
+end_time: 1750518260138
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 4cd8acddf2474031b153560d032a9edb
+run_name: gifted-frog-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518257955
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/e2619c2c2cdf489faf2f8e4331c4aad4/artifacts
+end_time: 1750518311099
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: e2619c2c2cdf489faf2f8e4331c4aad4
+run_name: gregarious-fawn-774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518309140
+status: 3
+tags: []
+user_id: rzby

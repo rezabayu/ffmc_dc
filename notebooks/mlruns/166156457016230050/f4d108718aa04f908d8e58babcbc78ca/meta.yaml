@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/f4d108718aa04f908d8e58babcbc78ca/artifacts
+end_time: 1750517557253
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: f4d108718aa04f908d8e58babcbc78ca
+run_name: adorable-hog-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517555147
+status: 3
+tags: []
+user_id: rzby

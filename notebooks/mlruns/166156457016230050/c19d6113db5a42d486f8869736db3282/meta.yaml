@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/c19d6113db5a42d486f8869736db3282/artifacts
+end_time: 1750518285751
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: c19d6113db5a42d486f8869736db3282
+run_name: thundering-conch-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518283786
+status: 3
+tags: []
+user_id: rzby

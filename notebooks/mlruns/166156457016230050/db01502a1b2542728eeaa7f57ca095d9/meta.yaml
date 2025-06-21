@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/db01502a1b2542728eeaa7f57ca095d9/artifacts
+end_time: 1750517664288
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: db01502a1b2542728eeaa7f57ca095d9
+run_name: defiant-shoat-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517662123
+status: 3
+tags: []
+user_id: rzby

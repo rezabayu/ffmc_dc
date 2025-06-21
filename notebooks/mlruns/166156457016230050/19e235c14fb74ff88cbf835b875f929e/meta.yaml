@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/19e235c14fb74ff88cbf835b875f929e/artifacts
+end_time: 1750518176686
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 19e235c14fb74ff88cbf835b875f929e
+run_name: shivering-foal-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518174669
+status: 3
+tags: []
+user_id: rzby

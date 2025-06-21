@@ -1,0 +1,22 @@
+artifact_path: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/models/m-87a4554aa6db46f8af3c486d82c62e97/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.11.12
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 3.0.2
+mlflow_version: 3.1.0
+model_id: m-87a4554aa6db46f8af3c486d82c62e97
+model_size_bytes: 12749354
+model_uuid: m-87a4554aa6db46f8af3c486d82c62e97
+prompts: null
+run_id: ff7b6b24ef4740fd9d8ed9a1d238b386
+utc_time_created: '2025-06-21 14:51:18.664550'

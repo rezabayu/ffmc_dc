@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/eee7f38e4b1e4a069ada7e40b6f99753/artifacts
+end_time: 1750517589356
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: eee7f38e4b1e4a069ada7e40b6f99753
+run_name: wistful-frog-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517587286
+status: 3
+tags: []
+user_id: rzby

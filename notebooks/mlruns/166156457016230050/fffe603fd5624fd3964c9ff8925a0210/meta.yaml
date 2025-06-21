@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/fffe603fd5624fd3964c9ff8925a0210/artifacts
+end_time: 1750518302219
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: fffe603fd5624fd3964c9ff8925a0210
+run_name: bouncy-bass-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518300131
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/88e58f3c0a5d4887a9b6b86e607c533b/artifacts
+end_time: 1750518206379
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 88e58f3c0a5d4887a9b6b86e607c533b
+run_name: learned-skink-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518204090
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/afb32242a0f24740b32445697b696786/artifacts
+end_time: 1750517637252
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: afb32242a0f24740b32445697b696786
+run_name: merciful-shrimp-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517635107
+status: 3
+tags: []
+user_id: rzby

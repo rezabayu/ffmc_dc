@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/65ff5fddc93f478cbced43c8ff5831a8/artifacts
+end_time: 1750518257136
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 65ff5fddc93f478cbced43c8ff5831a8
+run_name: painted-lark-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518255200
+status: 3
+tags: []
+user_id: rzby

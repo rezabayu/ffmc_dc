@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/6abbb9eed3eb46c7ac391445c7fa9b8d/artifacts
+end_time: 1750518219322
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 6abbb9eed3eb46c7ac391445c7fa9b8d
+run_name: handsome-cat-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518217194
+status: 3
+tags: []
+user_id: rzby

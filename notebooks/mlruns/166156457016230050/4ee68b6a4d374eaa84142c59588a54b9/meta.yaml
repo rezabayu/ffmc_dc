@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/4ee68b6a4d374eaa84142c59588a54b9/artifacts
+end_time: 1750518275240
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 4ee68b6a4d374eaa84142c59588a54b9
+run_name: hilarious-koi-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518273152
+status: 3
+tags: []
+user_id: rzby

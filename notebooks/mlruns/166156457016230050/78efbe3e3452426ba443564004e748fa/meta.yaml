@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/78efbe3e3452426ba443564004e748fa/artifacts
+end_time: 1750518244243
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 78efbe3e3452426ba443564004e748fa
+run_name: placid-ray-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518242214
+status: 3
+tags: []
+user_id: rzby

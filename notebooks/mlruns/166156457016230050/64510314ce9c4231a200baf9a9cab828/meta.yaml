@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/64510314ce9c4231a200baf9a9cab828/artifacts
+end_time: 1750517463845
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 64510314ce9c4231a200baf9a9cab828
+run_name: handsome-snipe-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517459591
+status: 3
+tags: []
+user_id: rzby

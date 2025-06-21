@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/e83e8c152a3743fb9f5c0134c41031fb/artifacts
+end_time: 1750517488233
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: e83e8c152a3743fb9f5c0134c41031fb
+run_name: fearless-zebra-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517486228
+status: 3
+tags: []
+user_id: rzby

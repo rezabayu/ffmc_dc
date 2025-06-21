@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/2b0591a0b925492e8bf068f07626eb73/artifacts
+end_time: 1750518223687
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 2b0591a0b925492e8bf068f07626eb73
+run_name: painted-fowl-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518221505
+status: 3
+tags: []
+user_id: rzby

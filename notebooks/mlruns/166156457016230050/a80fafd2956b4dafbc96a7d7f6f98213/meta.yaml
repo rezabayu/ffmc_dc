@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/a80fafd2956b4dafbc96a7d7f6f98213/artifacts
+end_time: 1750517652094
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: a80fafd2956b4dafbc96a7d7f6f98213
+run_name: victorious-robin-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517649884
+status: 3
+tags: []
+user_id: rzby

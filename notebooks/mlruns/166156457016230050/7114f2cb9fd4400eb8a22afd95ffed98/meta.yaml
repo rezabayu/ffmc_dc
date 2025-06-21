@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/7114f2cb9fd4400eb8a22afd95ffed98/artifacts
+end_time: 1750517499890
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 7114f2cb9fd4400eb8a22afd95ffed98
+run_name: intrigued-dolphin-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517497950
+status: 3
+tags: []
+user_id: rzby

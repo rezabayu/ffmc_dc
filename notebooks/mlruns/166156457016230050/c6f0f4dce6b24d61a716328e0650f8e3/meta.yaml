@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/c6f0f4dce6b24d61a716328e0650f8e3/artifacts
+end_time: 1750517599968
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: c6f0f4dce6b24d61a716328e0650f8e3
+run_name: wise-sponge-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517597824
+status: 3
+tags: []
+user_id: rzby

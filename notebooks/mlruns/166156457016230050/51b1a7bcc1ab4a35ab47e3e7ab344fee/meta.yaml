@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/51b1a7bcc1ab4a35ab47e3e7ab344fee/artifacts
+end_time: 1750517470639
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 51b1a7bcc1ab4a35ab47e3e7ab344fee
+run_name: languid-croc-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517468650
+status: 3
+tags: []
+user_id: rzby

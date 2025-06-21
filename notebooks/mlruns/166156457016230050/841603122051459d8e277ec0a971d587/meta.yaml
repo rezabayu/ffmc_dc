@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/841603122051459d8e277ec0a971d587/artifacts
+end_time: 1750518239523
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 841603122051459d8e277ec0a971d587
+run_name: glamorous-crow-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518237477
+status: 3
+tags: []
+user_id: rzby

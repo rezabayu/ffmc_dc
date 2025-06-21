@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/8ecace5e22b5432d9dc925da45fba9a9/artifacts
+end_time: 1750517622840
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 8ecace5e22b5432d9dc925da45fba9a9
+run_name: melodic-kite-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517620312
+status: 3
+tags: []
+user_id: rzby

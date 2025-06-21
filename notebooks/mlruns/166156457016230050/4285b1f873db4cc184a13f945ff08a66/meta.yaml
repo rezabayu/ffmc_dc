@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/4285b1f873db4cc184a13f945ff08a66/artifacts
+end_time: 1750518305858
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 4285b1f873db4cc184a13f945ff08a66
+run_name: valuable-crow-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518303841
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/2c8e582b069447b580b5f1aab813a88c/artifacts
+end_time: 1750518278116
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 2c8e582b069447b580b5f1aab813a88c
+run_name: thoughtful-fish-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518276220
+status: 3
+tags: []
+user_id: rzby

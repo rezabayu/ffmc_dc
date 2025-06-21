@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/29b87283aeca4c6a9d62195b1729592a/artifacts
+end_time: 1750517542905
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 29b87283aeca4c6a9d62195b1729592a
+run_name: ambitious-mule-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517540892
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/cc7a240b324a4e6c8e3a640f1c08dc7c/artifacts
+end_time: 1750517617347
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: cc7a240b324a4e6c8e3a640f1c08dc7c
+run_name: calm-sow-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517615221
+status: 3
+tags: []
+user_id: rzby

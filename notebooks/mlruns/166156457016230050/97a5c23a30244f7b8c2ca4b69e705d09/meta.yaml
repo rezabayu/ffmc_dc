@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/97a5c23a30244f7b8c2ca4b69e705d09/artifacts
+end_time: 1750517531318
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 97a5c23a30244f7b8c2ca4b69e705d09
+run_name: colorful-bird-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517529023
+status: 3
+tags: []
+user_id: rzby

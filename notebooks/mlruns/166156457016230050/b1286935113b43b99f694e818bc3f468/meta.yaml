@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/b1286935113b43b99f694e818bc3f468/artifacts
+end_time: 1750518230329
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: b1286935113b43b99f694e818bc3f468
+run_name: fortunate-goat-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518228372
+status: 3
+tags: []
+user_id: rzby
