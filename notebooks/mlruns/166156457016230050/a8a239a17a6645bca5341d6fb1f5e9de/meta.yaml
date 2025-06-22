@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/a8a239a17a6645bca5341d6fb1f5e9de/artifacts
+end_time: 1750564716286
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: a8a239a17a6645bca5341d6fb1f5e9de
+run_name: skittish-asp-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564714104
+status: 3
+tags: []
+user_id: rzby

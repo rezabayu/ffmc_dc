@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/27b0ca2776ff48d8a1f16506c28b5c68/artifacts
+end_time: 1750564748203
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 27b0ca2776ff48d8a1f16506c28b5c68
+run_name: trusting-hawk-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564745725
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/33fccb874b7b4fba9b76f55c600922fd/artifacts
+end_time: 1750564741965
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 33fccb874b7b4fba9b76f55c600922fd
+run_name: powerful-seal-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564739818
+status: 3
+tags: []
+user_id: rzby

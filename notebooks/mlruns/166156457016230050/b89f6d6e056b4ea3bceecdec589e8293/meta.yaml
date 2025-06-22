@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/b89f6d6e056b4ea3bceecdec589e8293/artifacts
+end_time: 1750564567253
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: b89f6d6e056b4ea3bceecdec589e8293
+run_name: kindly-shrimp-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564565040
+status: 3
+tags: []
+user_id: rzby

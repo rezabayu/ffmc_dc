@@ -1,0 +1,10 @@
+artifact_location: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/models/m-001a2fe03c174b8b8e0b8dd112de3930/artifacts
+creation_timestamp: 1750564642078
+experiment_id: '166156457016230050'
+last_updated_timestamp: 1750564644194
+model_id: m-001a2fe03c174b8b8e0b8dd112de3930
+model_type: null
+name: model
+source_run_id: a7f753c4a7894e4a8bede2aae2e07e07
+status: 2
+status_message: null

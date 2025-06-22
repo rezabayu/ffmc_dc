@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/c6571eeb1e924dc4b51db2f539c17076/artifacts
+end_time: 1750564701500
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: c6571eeb1e924dc4b51db2f539c17076
+run_name: clumsy-swan-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564699393
+status: 3
+tags: []
+user_id: rzby

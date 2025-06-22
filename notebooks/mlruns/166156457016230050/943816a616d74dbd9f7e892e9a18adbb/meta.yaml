@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/943816a616d74dbd9f7e892e9a18adbb/artifacts
+end_time: 1750564549417
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 943816a616d74dbd9f7e892e9a18adbb
+run_name: capable-loon-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564547088
+status: 3
+tags: []
+user_id: rzby

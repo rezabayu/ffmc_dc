@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/40f3a5ede9564534bef87913b5552327/artifacts
+end_time: 1750564757947
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 40f3a5ede9564534bef87913b5552327
+run_name: angry-squirrel-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564755658
+status: 3
+tags: []
+user_id: rzby

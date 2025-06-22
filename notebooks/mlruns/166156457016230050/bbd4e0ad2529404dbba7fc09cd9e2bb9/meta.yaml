@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/bbd4e0ad2529404dbba7fc09cd9e2bb9/artifacts
+end_time: 1750564630342
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: bbd4e0ad2529404dbba7fc09cd9e2bb9
+run_name: polite-crow-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564628250
+status: 3
+tags: []
+user_id: rzby

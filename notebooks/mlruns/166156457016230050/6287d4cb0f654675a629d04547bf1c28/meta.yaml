@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/6287d4cb0f654675a629d04547bf1c28/artifacts
+end_time: 1750564674824
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 6287d4cb0f654675a629d04547bf1c28
+run_name: nimble-stag-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564672720
+status: 3
+tags: []
+user_id: rzby

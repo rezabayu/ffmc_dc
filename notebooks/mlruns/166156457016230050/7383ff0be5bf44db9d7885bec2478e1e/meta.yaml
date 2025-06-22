@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/7383ff0be5bf44db9d7885bec2478e1e/artifacts
+end_time: 1750564595165
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 7383ff0be5bf44db9d7885bec2478e1e
+run_name: hilarious-kit-774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564593001
+status: 3
+tags: []
+user_id: rzby

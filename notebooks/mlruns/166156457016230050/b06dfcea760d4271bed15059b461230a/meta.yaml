@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/b06dfcea760d4271bed15059b461230a/artifacts
+end_time: 1750564640632
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: b06dfcea760d4271bed15059b461230a
+run_name: secretive-panda-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564638488
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/3e71932bad92434c8a3d712923c9479d/artifacts
+end_time: 1750564624478
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 3e71932bad92434c8a3d712923c9479d
+run_name: persistent-finch-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564622293
+status: 3
+tags: []
+user_id: rzby

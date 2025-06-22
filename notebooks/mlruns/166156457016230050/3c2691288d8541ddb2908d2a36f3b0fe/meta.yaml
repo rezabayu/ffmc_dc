@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/3c2691288d8541ddb2908d2a36f3b0fe/artifacts
+end_time: 1750564681617
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 3c2691288d8541ddb2908d2a36f3b0fe
+run_name: upset-foal-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564679431
+status: 3
+tags: []
+user_id: rzby

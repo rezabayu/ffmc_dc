@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/ce05b0a1ac39451b8e93bd0162ad9bc1/artifacts
+end_time: 1750564733095
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: ce05b0a1ac39451b8e93bd0162ad9bc1
+run_name: able-roo-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564730952
+status: 3
+tags: []
+user_id: rzby

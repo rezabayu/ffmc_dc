@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/3a0b0e7f2f8c43aa9793b0ba17937cf8/artifacts
+end_time: 1750564600608
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 3a0b0e7f2f8c43aa9793b0ba17937cf8
+run_name: abrasive-goose-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564598500
+status: 3
+tags: []
+user_id: rzby

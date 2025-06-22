@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/7079d6560b3d4ab9b758b715aa616a26/artifacts
+end_time: 1750564667983
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 7079d6560b3d4ab9b758b715aa616a26
+run_name: puzzled-dove-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564665888
+status: 3
+tags: []
+user_id: rzby

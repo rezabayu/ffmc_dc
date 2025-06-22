@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/189f880c4f0e4360b5c69767eacb1491/artifacts
+end_time: 1750564583837
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 189f880c4f0e4360b5c69767eacb1491
+run_name: luxuriant-conch-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564581698
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/860e66ef16ee4ff5b574c14af64059b7/artifacts
+end_time: 1750564790589
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 860e66ef16ee4ff5b574c14af64059b7
+run_name: monumental-croc-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564788422
+status: 3
+tags: []
+user_id: rzby

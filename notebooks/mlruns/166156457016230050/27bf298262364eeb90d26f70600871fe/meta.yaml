@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/27bf298262364eeb90d26f70600871fe/artifacts
+end_time: 1750564738410
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 27bf298262364eeb90d26f70600871fe
+run_name: efficient-boar-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564736253
+status: 3
+tags: []
+user_id: rzby

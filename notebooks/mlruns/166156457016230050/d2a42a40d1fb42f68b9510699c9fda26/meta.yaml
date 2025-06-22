@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/d2a42a40d1fb42f68b9510699c9fda26/artifacts
+end_time: 1750564637297
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: d2a42a40d1fb42f68b9510699c9fda26
+run_name: nosy-snake-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564635204
+status: 3
+tags: []
+user_id: rzby

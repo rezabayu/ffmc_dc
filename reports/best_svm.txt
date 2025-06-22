@@ -1,0 +1,1 @@
+Best SVM params: {'svr__C': 100, 'svr__epsilon': 0.2, 'svr__gamma': 0.01}

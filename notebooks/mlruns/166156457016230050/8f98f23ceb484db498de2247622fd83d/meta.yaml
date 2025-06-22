@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/8f98f23ceb484db498de2247622fd83d/artifacts
+end_time: 1750564657553
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: 8f98f23ceb484db498de2247622fd83d
+run_name: unequaled-croc-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564655471
+status: 3
+tags: []
+user_id: rzby

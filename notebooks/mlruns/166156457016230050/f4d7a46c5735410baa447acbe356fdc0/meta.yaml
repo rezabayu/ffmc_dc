@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/166156457016230050/f4d7a46c5735410baa447acbe356fdc0/artifacts
+end_time: 1750564719710
+entry_point_name: ''
+experiment_id: '166156457016230050'
+lifecycle_stage: active
+run_id: f4d7a46c5735410baa447acbe356fdc0
+run_name: able-sheep-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564717499
+status: 3
+tags: []
+user_id: rzby
