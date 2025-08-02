@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/48b5ceff0eb94a0091e014451953ff66/artifacts
+end_time: 1754137109405
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 48b5ceff0eb94a0091e014451953ff66
+run_name: masked-dog-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137107333
+status: 3
+tags: []
+user_id: rzby

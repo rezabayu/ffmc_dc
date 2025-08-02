@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/8647c6a8713f4961a06677f68935812d/artifacts
+end_time: 1754137095283
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 8647c6a8713f4961a06677f68935812d
+run_name: rare-pig-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137093103
+status: 3
+tags: []
+user_id: rzby

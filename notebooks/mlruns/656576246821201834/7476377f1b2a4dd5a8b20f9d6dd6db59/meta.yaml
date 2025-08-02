@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/7476377f1b2a4dd5a8b20f9d6dd6db59/artifacts
+end_time: 1754137227253
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 7476377f1b2a4dd5a8b20f9d6dd6db59
+run_name: thoughtful-boar-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137224712
+status: 3
+tags: []
+user_id: rzby

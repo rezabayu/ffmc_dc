@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/76f946997000427ab147089e27b39b13/artifacts
+end_time: 1754137289344
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 76f946997000427ab147089e27b39b13
+run_name: redolent-skink-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137287222
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/e99ceddb634647a0976c000fd5a03966/artifacts
+end_time: 1754137259719
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: e99ceddb634647a0976c000fd5a03966
+run_name: treasured-kite-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137257233
+status: 3
+tags: []
+user_id: rzby

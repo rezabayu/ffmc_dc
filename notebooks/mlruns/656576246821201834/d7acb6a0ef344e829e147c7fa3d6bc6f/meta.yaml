@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/d7acb6a0ef344e829e147c7fa3d6bc6f/artifacts
+end_time: 1754137299288
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: d7acb6a0ef344e829e147c7fa3d6bc6f
+run_name: casual-stag-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137297241
+status: 3
+tags: []
+user_id: rzby

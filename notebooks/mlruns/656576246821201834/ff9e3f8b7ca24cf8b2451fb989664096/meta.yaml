@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/ff9e3f8b7ca24cf8b2451fb989664096/artifacts
+end_time: 1754137294921
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: ff9e3f8b7ca24cf8b2451fb989664096
+run_name: suave-swan-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137292863
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/f95c5d7dc77046f6ad25bbcd8b358ef6/artifacts
+end_time: 1754137231972
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: f95c5d7dc77046f6ad25bbcd8b358ef6
+run_name: chill-squid-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137229729
+status: 3
+tags: []
+user_id: rzby

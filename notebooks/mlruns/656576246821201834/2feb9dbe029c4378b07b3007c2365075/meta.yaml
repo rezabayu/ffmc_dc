@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/2feb9dbe029c4378b07b3007c2365075/artifacts
+end_time: 1754137164537
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 2feb9dbe029c4378b07b3007c2365075
+run_name: fortunate-ray-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137162441
+status: 3
+tags: []
+user_id: rzby

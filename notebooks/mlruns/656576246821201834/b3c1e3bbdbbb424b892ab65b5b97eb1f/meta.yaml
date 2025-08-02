@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/b3c1e3bbdbbb424b892ab65b5b97eb1f/artifacts
+end_time: 1754137210637
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: b3c1e3bbdbbb424b892ab65b5b97eb1f
+run_name: colorful-robin-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137208132
+status: 3
+tags: []
+user_id: rzby

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/a328c34c2c0f4a61848843070dc09b62/artifacts
+end_time: 1754137023220
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: a328c34c2c0f4a61848843070dc09b62
+run_name: capable-dog-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137021165
+status: 3
+tags: []
+user_id: rzby

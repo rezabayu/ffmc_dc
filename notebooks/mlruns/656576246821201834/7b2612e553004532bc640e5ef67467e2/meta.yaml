@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/7b2612e553004532bc640e5ef67467e2/artifacts
+end_time: 1754136968744
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 7b2612e553004532bc640e5ef67467e2
+run_name: luminous-finch-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754136965352
+status: 3
+tags: []
+user_id: rzby

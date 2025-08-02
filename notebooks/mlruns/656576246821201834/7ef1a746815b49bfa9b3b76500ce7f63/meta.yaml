@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/7ef1a746815b49bfa9b3b76500ce7f63/artifacts
+end_time: 1754137114531
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 7ef1a746815b49bfa9b3b76500ce7f63
+run_name: nosy-lark-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137112420
+status: 3
+tags: []
+user_id: rzby

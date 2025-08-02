@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/ee2ef44be43a4bc59bcbb642421498bc/artifacts
+end_time: 1754137019740
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: ee2ef44be43a4bc59bcbb642421498bc
+run_name: merciful-sheep-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137017708
+status: 3
+tags: []
+user_id: rzby

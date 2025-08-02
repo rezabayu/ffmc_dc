@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/ff7787e7102f481e97897b7c33df9d05/artifacts
+end_time: 1754137304586
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: ff7787e7102f481e97897b7c33df9d05
+run_name: gregarious-ox-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137302493
+status: 3
+tags: []
+user_id: rzby

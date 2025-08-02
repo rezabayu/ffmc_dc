@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/264add777f744b1ca6e8ef7ae720e87d/artifacts
+end_time: 1754137273702
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 264add777f744b1ca6e8ef7ae720e87d
+run_name: mysterious-hound-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137271588
+status: 3
+tags: []
+user_id: rzby

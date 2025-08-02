@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/134548e402c7403480712cfc958f1eda/artifacts
+end_time: 1754137284972
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 134548e402c7403480712cfc958f1eda
+run_name: melodic-foal-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137282689
+status: 3
+tags: []
+user_id: rzby

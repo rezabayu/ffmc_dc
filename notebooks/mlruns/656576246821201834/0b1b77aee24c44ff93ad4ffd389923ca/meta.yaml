@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rzby/ffmc_dc/notebooks/mlruns/656576246821201834/0b1b77aee24c44ff93ad4ffd389923ca/artifacts
+end_time: 1754137006085
+entry_point_name: ''
+experiment_id: '656576246821201834'
+lifecycle_stage: active
+run_id: 0b1b77aee24c44ff93ad4ffd389923ca
+run_name: nervous-eel-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137004058
+status: 3
+tags: []
+user_id: rzby
